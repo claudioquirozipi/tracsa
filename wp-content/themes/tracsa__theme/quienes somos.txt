@@ -1,0 +1,8 @@
+<h2 class="post__title">Quienes somos</h2>
+<div class="post__Derecha post__img" style="display: flex; justify-content: center;">
+<img src="http://localhost/php/tracsa__wp/wp-content/uploads/2018/07/quienes.png" alt="" width="auto" height="360px" class="alignnone size-full wp-image-11" />
+</div>
+<div class="post__Izquierda">
+<p>Tracsa es una compañía líder en el mercado agroindustrial desde 1989 fabricando correas elevadoras y revestimientos de poliuretano, exportando sus productos a los principales países del mundo.</p>
+<p>
+Con su planta principal de 30.000 m2 en Argentina y sede en Brasil y en Estados Unidos. Contando con una tecnología de vanguardia, un equipo de excelencia y motorizados bajo normas de calidad internacionales nos permiten llegar a los productos que hoy en día ofrece Tracsa.</p></div>
